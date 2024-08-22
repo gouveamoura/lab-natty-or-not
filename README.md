@@ -20,32 +20,27 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Vantagens e Desvantagens de criar PET's em casas pequenas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Com a ajuda de IA generativa escrever um artigo que auxilie uma pessoa a responder as dúvidas sobre ter ou não um PET morando em casa ou apartamentos pequenos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Microsoft Copilot;
+Chat GPT;
+Leonardo AI.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Em um dilema na minha família com uma filha de 3 anos que adora PETs tive a ideia de buscar respostas para questões relacionadas a criação de PETs em apartamentos, criei uma imagem para dar uma incrementada no trabalho
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Pensando em um artigo informativo acredito que apresenta qualidade razoável e baixo indice de profundidade
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O uso de IA's generativas traz uma agilidade no trabalho impressionante e nos faz mais produtivos , penso que a única coisa que IA's não conseguem fazer é serem criativas como seres humanos...
+
 ```
+## ARTIGO
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+https://docs.google.com/document/d/1J3g5mbizld-H4ISossFjRDJRdSM0nbPE/edit?usp=sharing&ouid=104117928796135820883&rtpof=true&sd=true
